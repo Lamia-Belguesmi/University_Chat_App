@@ -1,6 +1,8 @@
 # university_social_app
 
 A new Flutter application.
+![University chat](https://user-images.githubusercontent.com/65131757/147605569-dadd5f74-ec2f-46a1-b568-34baf66084b7.gif)
+
 
 ## Getting Started
 
